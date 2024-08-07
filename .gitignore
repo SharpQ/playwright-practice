@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+.pytest_cache/
+*.html
+venv/
+*.png
+*.DS_Store
+*.mp4
